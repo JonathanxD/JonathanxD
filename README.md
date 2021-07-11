@@ -33,6 +33,7 @@ Using the following technologies:
 * 🏗️ Gradle
 * 🏭 Jenkins
 * 🕐 Git
+* 🧪 JUnit and Mockito
 
 *I've also worked with freelance projects using Delphi, Pawn, PHP and Java.*
 
@@ -69,6 +70,8 @@ I've been using a bunch of tools in my daily work and personal projects, I under
 * Coroutines
 * Micrometer
 * RxJava1/2, Reactive Core
+* JUnit, Mockito and Kotest
+* ByteBuddy
 
 #### Tools/Languages
 * Java, Kotlin and Rust
