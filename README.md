@@ -118,14 +118,6 @@ I'm not afraid of change, I keep studying different frameworks, concepts and lan
 * Performance improvement (find the problem, calculate the time complexity, architect a solution and apply the new algorithm with a better time complexity)
 * Software Planning and Architecture
 
-### ⚡ Fun Fact
-
-I've started developing software in 2010, when I had only 10 years and no Internet connection. I always liked computers and did fixed computers for friends and neighbors, and got money by doing that, and with this money I went to lan house to download all I need to develop. I know how to setup networks, firewalls, Windows Server, find and replace fault components, and started using Linux in 2014. Later on, I did professionalizing TI course, and I impressed the teacher and other students, by being so young and knowing so much.
-
-I like to jump into things outside of coding world, and try to understand them very well. I've created my own Kubernetes Cluster, deployed the services automatically through a CI/CD pipeline and exposed those services to the web in a HTTPS domain, configured with Nginx and Let's Encrypt. I never been afraid of failing, we need to be able to handle the failure in order to be able to handle the success.
-
-I even created my own compiler, which translates Abstract Syntax Tree into JVM Bytecode. This was the most challenging project I ever made in my life, I learned about Stack, Heap, Garbage Collection, and bunch of things about JVM Internals, such as Lookup Switch, Table Switch, Stack VM, Register VM. This served as the base to start to write my own language and to understand how things worked under-the-hood and how to improve the performance of the code.
-
 ### 📫 How to reach me
 
 * ✉️ Email: jhrldev@gmail.com
@@ -135,6 +127,14 @@ I even created my own compiler, which translates Abstract Syntax Tree into JVM B
 
 * Medium: https://jhrl.medium.com
 * Quora: https://www.quora.com/profile/Jonathan-Henrique
+
+### ⚡ Fun Fact
+
+I've started developing software in 2010, when I had only 10 years and no Internet connection. I always liked computers and did fixed computers for friends and neighbors, and got money by doing that, and with this money I went to lan house to download all I need to develop. I know how to setup networks, firewalls, Windows Server, find and replace fault components, and started using Linux in 2014. Later on, I did professionalizing TI course, and I impressed the teacher and other students, by being so young and knowing so much.
+
+I like to jump into things outside of coding world, and try to understand them very well. I've created my own Kubernetes Cluster, deployed the services automatically through a CI/CD pipeline and exposed those services to the web in a HTTPS domain, configured with Nginx and Let's Encrypt. I never been afraid of failing, we need to be able to handle the failure in order to be able to handle the success.
+
+I even created my own compiler, which translates Abstract Syntax Tree into JVM Bytecode. This was the most challenging project I ever made in my life, I learned about Stack, Heap, Garbage Collection, and bunch of things about JVM Internals, such as Lookup Switch, Table Switch, Stack VM, Register VM. This served as the base to start to write my own language and to understand how things worked under-the-hood and how to improve the performance of the code.
 
 <!--
 **JonathanxD/JonathanxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
