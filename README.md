@@ -123,13 +123,13 @@ I even created my own compiler, which translates Abstract Syntax Tree into JVM B
 
 ### 📫 How to reach me
 
-✉️ Email: jhrldev@gmail.com
-📇 Linkedin: https://www.linkedin.com/in/jhrldev
+* ✉️ Email: jhrldev@gmail.com
+* 📇 Linkedin: https://www.linkedin.com/in/jhrldev
 
 ### 📱 Social Media
 
-Medium: https://jhrl.medium.com
-Quora: https://www.quora.com/profile/Jonathan-Henrique
+* Medium: https://jhrl.medium.com
+* Quora: https://www.quora.com/profile/Jonathan-Henrique
 
 <!--
 **JonathanxD/JonathanxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
