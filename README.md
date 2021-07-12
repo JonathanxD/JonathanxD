@@ -126,7 +126,6 @@ I'm not afraid of change, I keep studying different frameworks, concepts and lan
 ### 📱 Social Media
 
 * Medium: https://jhrl.medium.com
-* Quora: https://www.quora.com/profile/Jonathan-Henrique
 
 ### ⚡ Fun Fact
 
