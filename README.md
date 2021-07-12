@@ -9,7 +9,7 @@ Software developer with 11 years of software development experience and 5 years 
 I'm currently working on [Looqbox](https://looqbox.com), here I'm responsible for:
 
 * 🛠️ Maintain
-* 🧑‍💻 Develop
+* 💻 Develop
 * 📐 Architect 
 
 Microservices in
