@@ -24,7 +24,7 @@ Using the following technologies:
 * 📗 Google SQL and BigQuery
 * 🪄 Goroutines and Channels
 * ✉️ NATS
-* 💾 Redis
+* 💾 Redis, Memcached
 * 📦 Docker
 * 🏗️ Makefile
 * 🏭 Jenkins
