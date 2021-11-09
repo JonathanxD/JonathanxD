@@ -6,31 +6,7 @@ Software developer with 11 years of software development experience and 5 years 
 
 #### Professional
 
-I'm currently working on [TC](https://tc.com.br), here I'm responsible for:
-
-* 🛠️ Maintain
-* 💻 Develop
-* 📐 Architect 
-
-Microservices in
-
-* *🇬* Go
-
-Using the following technologies:
-
-* 🌱 Go Echo
-* 🔍 ElasticSearch
-* ☘️ MongoDB
-* 📗 Google SQL and BigQuery
-* 🪄 Goroutines and Channels
-* ✉️ NATS
-* 💾 Redis, Memcached
-* 📦 Docker
-* 🏗️ Makefile
-* 🏭 Jenkins
-* 🕐 Git
-
-I've also worked on [Looqbox](https://looqbox.com), here I was responsible for:
+I've worked on [Looqbox](https://looqbox.com), here I was responsible for:
 
 * 🛠️ Maintain
 * 💻 Develop
