@@ -47,10 +47,11 @@ Using the following technologies:
 * 🏭 Jenkins and GitHub Actions
 * 🕐 Git
 
-I was responsible for the major design decisions on customer projects, as well for improving and implementing 
+*I was responsible for the major design decisions on customer projects, as well for improving and implementing 
 Scalability, Reliability and Traceability in their projects, as well as significant performance improvements. I was able
 to reduce their most important process from a total of 6 hours to just 30 minutes, with recovering capabilities and
-parallel computing.
+parallel computing.*
+
 
 I've also worked on [Looqbox](https://looqbox.com), here I was responsible for:
 
