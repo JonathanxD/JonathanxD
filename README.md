@@ -30,6 +30,8 @@ Using the following technologies:
 * 🏭 Jenkins
 * 🕐 Git
 
+---
+
 I've worked on [Meza](https://meza.digital/) as a Head of Technology with:
 
 * *☕* Java
@@ -52,6 +54,7 @@ Scalability, Reliability and Traceability in their projects, as well as signific
 to reduce their most important process from a total of 6 hours to just 30 minutes, with recovering capabilities and
 parallel computing.*
 
+---
 
 I've also worked on [Looqbox](https://looqbox.com), here I was responsible for:
 
