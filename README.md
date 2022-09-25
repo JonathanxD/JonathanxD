@@ -179,23 +179,20 @@ I'm not afraid of change, I keep studying different frameworks, concepts and lan
 
 ### ⚡ Fun Fact
 
-I've started developing software in 2010, when I had only 10 years and no Internet connection. I always liked computers and did fixed computers for friends and neighbors, and got money by doing that, and with this money I went to lan house to download all I need to develop. I know how to setup networks, firewalls, Windows Server, find and replace fault components, and started using Linux in 2014. Later on, I did professionalizing TI course, and I impressed the teacher and other students, by being so young and knowing so much.
+I've started developing software in 2010, when I had only 10 years and no internet connection, first I learned Lua and was amazed
+with what I did with it and what I could've done, but I needed more tools to do more, so, as I always liked computers and fixing them,
+I did this for my friends and some neighbors, and with the money I got I went to lan houses to download the tools and documentation to development.
+Interestingly, that was also how I did my first “job”, I used mobile GSM internet to communicate with the clients, and went to a Cyber Café to
+sent them the binaries.
 
-I like to jump into things outside of coding world, and try to understand them very well. I've created my own Kubernetes Cluster, deployed the services automatically through a CI/CD pipeline and exposed those services to the web in a HTTPS domain, configured with Nginx and Let's Encrypt. I never been afraid of failing, we need to be able to handle the failure in order to be able to handle the success.
+Additionally, I know how to setup networks, firewalls, servers, find and replace faulty components, and on the road of exploring the tech world
+I met Linux, in 2014.
 
-I even created my own compiler, which translates Abstract Syntax Tree into JVM Bytecode. This was the most challenging project I ever made in my life, I learned about Stack, Heap, Garbage Collection, and bunch of things about JVM Internals, such as Lookup Switch, Table Switch, Stack VM, Register VM. This served as the base to start to write my own language and to understand how things worked under-the-hood and how to improve the performance of the code.
+But it's not only about the code, I love to jump outside of coding world and try to understand everything. 
+I've created my own Kubernetes Cluster, deployed the services automatically through a CI/CD pipeline 
+and exposed those services to the web over HTTPS, using Nginx and Let's Encrypt.
 
-<!--
-**JonathanxD/JonathanxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I even created my own compiler, which translates Abstract Syntax Tree into JVM Bytecode. This was the most challenging project I ever made in my life, 
+I learned about Stack, Heap, Garbage Collection, and bunch of things about JVM Internals, such as Lookup Switch, Table Switch, Stack VM, Register VM. 
+This served as the base to start to write my own programming language and to understand how things worked under-the-hood, which helped me
+on my professional life with improving the performance of Java applications.
