@@ -1,16 +1,36 @@
 ## Jonathan H. R. Lopes
 
-Software developer with 11 years of software development experience and 5 years of professional experience (freelance and full-time).
+Software developer with 14 years of software development experience and 8 years of professional experience (2 years freelance and 6 years full-time).
 
 ### 🔭 Experience
 
 #### Professional
 
-I'm currently working on [TC](https://tc.com.br), here I'm responsible for:
+I'm currently working at [Audibene](https://www.audibene.de/)/[Hear.com](https://hear.com) with:
 
-* 🛠️ Maintain
-* 💻 Develop
-* 📐 Architect 
+* *☕* Java
+* *🐍* Python
+* *📝* JavaScript / TypeScript
+
+Using the following technologies:
+
+* 🌱 Spring Boot
+* 📗 PostgreSQL
+* ✉️ Pulsar
+* 💾 Redis
+* 👀 New Relic and Open Telemetry
+* ⚛️ ReactJS
+* ⛰️ Terraform
+* 🌲 AWS
+* 📦 Docker
+* 🏗️ Gradle / Maven
+* 🏭 Jenkins
+* 🕐 Git
+* 🧪 JUnit and Mockito
+
+---
+
+Previously I worked at [TC](https://tc.com.br) doing:
 
 Microservices in
 
@@ -32,7 +52,7 @@ Using the following technologies:
 
 ---
 
-I've worked on [Meza](https://meza.digital/) as a Head of Technology with:
+And at [Meza](https://meza.digital/) as a Head of Technology with:
 
 * *☕* Java
 * *🇰* Kotlin
@@ -56,7 +76,7 @@ parallel computing.*
 
 ---
 
-I've also worked on [Looqbox](https://looqbox.com), here I was responsible for:
+And at [Looqbox](https://looqbox.com), here I was responsible for:
 
 * 🛠️ Maintain
 * 💻 Develop
@@ -102,17 +122,17 @@ I understand the important concepts behind different programming languages, from
 
 Programming languages are just tools, you chose what best fits your needs, and you should never be afraid of using a different tool to get the work done.
 
-* Java (7 years)
-* Kotlin (5 years)
-* Rust, Scala, Groovy (3 years)
-* Javascript, Lua (2 years)
-* Kotlin/Native, Go, Pawn, Golo, Gosu, Ceylon (1 year)
-* PHP, Delphi, Visual Basic, C#, C/C++, Python, Perl (< 1 year)
+* Java (10 years)
+* Kotlin (8 years)
+* Rust (6 years)
+* Javascript, Lua (4 years)
+* Scala, Groovy (3 years)
+* Golang, Python (2 years)
+* Kotlin/Native, Pawn, Golo, Gosu, Ceylon (1 year)
+* PHP, Delphi, Visual Basic, C#, C/C++, Perl (< 1 year)
 * Nim, Clojure, Haskell (some months to get interesting concepts)
 
 ### 🪛 Main Frameworks, Tools, Databases and SOs
-
-I've been using a bunch of tools in my daily work and personal projects, I understand them very well and use the best one to solve the problem, sometimes I combine them to have different visualizations and results, which helps me find out the best approach to solve problems.
 
 #### Frameworks
 * Spring
@@ -127,28 +147,27 @@ I've been using a bunch of tools in my daily work and personal projects, I under
 * Java, Kotlin and Rust
 * VisualVM/JConsole
 * Docker
-* Git
-* Gradle, Maven
+* Git, Pijul
+* Gradle, Maven, Make
+* Neovim
 * IntelliJ IDEA
 * JetBrains Space and TeamCity
 * Grafana
 
 #### Databases
-* SQL: MySQL, Postgresql
+* SQL: Postgresql, MySQL
 * NoSQL: MongoDB, Redis, ElasticSearch
-* NoSQL: InfluxDB, Cassandra
+* NoSQL: InfluxDB, Cassandra, SurrealDB
 * Hybrid: BigQuery
 
 #### Operational Systems
+* Linux (Debian-based, RPM-based, and independent ones)
 * Windows
 * Windows Server
-* Linux (Debian-based, RPM-based, and independent ones)
 * macOS
 * FreeBSD
 
-### 🧰 Frameworks and Concepts I know (others than I used in my work)
-
-I'm not afraid of change, I keep studying different frameworks, concepts and languages. Technology is constantly changing, we need to change as well.
+### 🧰 Frameworks and Concepts I know (apart from the ones that I use on my job)
 
 * Java EE (now Jakarta EE)
 * Dependency Injection (Guice, Koin)
@@ -179,20 +198,24 @@ I'm not afraid of change, I keep studying different frameworks, concepts and lan
 
 ### ⚡ Fun Fact
 
-I've started developing software in 2010, when I had only 10 years and no internet connection, first I learned Lua and was amazed
-with what I did with it and what I could've done, but I needed more tools to do more, so, as I always liked computers and fixing them,
-I did this for my friends and some neighbors, and with the money I got I went to lan houses to download the tools and documentation to development.
-Interestingly, that was also how I did my first “job”, I used mobile GSM internet to communicate with the clients, and went to a Cyber Café to
-sent them the binaries.
+I started developing software in 2010, when I was only 10 years old and had no internet connection. First I learned Lua and was amazed
+with what I did with it and what I could do, but it would be hard without access to the internet. So I started fixing the computers of my friends and neighbours to get some money, and with that I went to a lan house to research more about programming and download the software and documentation that I needed.
 
-Additionally, I know how to setup networks, firewalls, servers, find and replace faulty components, and on the road of exploring the tech world
-I met Linux, in 2014.
+Interestingly, that was also how I did my first “job”, I used mobile GSM internet to communicate with my customer, and went to a Cybercafé to
+send them the packages and test it out.
 
-But it's not only about the code, I love to jump outside of coding world and try to understand everything. 
-I've created my own Kubernetes Cluster, deployed the services automatically through a CI/CD pipeline 
-and exposed those services to the web over HTTPS, using Nginx and Let's Encrypt.
+Being always curious led me to Linux in 2014, then to FreeBSD a couple of years after.
 
-I even created my own compiler, which translates Abstract Syntax Tree into JVM Bytecode. This was the most challenging project I ever made in my life, 
-I learned about Stack, Heap, Garbage Collection, and bunch of things about JVM Internals, such as Lookup Switch, Table Switch, Stack VM, Register VM. 
-This served as the base to start to write my own programming language and to understand how things worked under-the-hood, which helped me
-on my professional life with improving the performance of Java applications.
+My love is not only for the code, but for the technology, so I keep learning anything that interests me in this field.
+Which includes learning about Hardware Architecture, ISAs, Operating Systems (the underlying implementation), Reverse
+Engineering (which is how I learned to create my own compiler), and so on.
+
+The most challenging project was creating my own JVM compiler, which translates Concrete Trees into JVM Bytecode.
+This was the most challenging project I ever worked in my life, I learned about Stack, Heap, Garbage Collection, JIT,
+a bunch of JVM Internal things, such as Lookup Switch, Table Switch, Stack VM (and consequently, Register VMs).
+One of the benefits of getting so much knowledge about the JVM (beyond the Java language), is knowing how to analyse
+and optimise Java Applications, as I not only know what is an inefficient solution, but I also know what is inefficient
+for the JVM.
+
+This also motivated me to start writing my own Programming Language and learning more about Parsers and compilers,
+especially the [LLVM](https://llvm.org/).
